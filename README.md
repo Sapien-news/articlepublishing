@@ -12,3 +12,5 @@ anchor deploy
 This program is used to generate PDAs that would be updated by the governance program
 
 You can check out this program in our Dapp demo at https://www.sapien.news/
+
+Devnet deployed
